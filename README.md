@@ -10,7 +10,7 @@ Book Management (CRUD):
 - View: Browse the collection of available books.
 - Add: Authorized users can add new books to the system.
 - Update: Modify existing book details.
-- Delete: Remove books from the library database.
+- Delete: Remove  books from the library database.
 
 Protected Routes: Only authenticated users can perform modifications (Add, Update, Delete).
 
