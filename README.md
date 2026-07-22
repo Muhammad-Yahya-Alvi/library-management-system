@@ -6,7 +6,7 @@ A full-stack web application for managing library books, built with React, Node.
 
 User Authentication: Secure registration and login system using JWT (JSON Web Tokens).
 
-Book Management  (CRUD):
+Book Management (CRUD):
 - View: Browse the collection of available books.
 - Add: Authorized users can add new books to the system.
 - Update: Modify existing book details.
