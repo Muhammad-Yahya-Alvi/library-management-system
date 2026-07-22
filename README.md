@@ -1,6 +1,6 @@
 # Library Management System
 
-A full-stack web application for managing library books, built with React, Node.js, Express, and MySQL.
+A full-stack web application for managing library books, built with React, Node.js, Express, and  MySQL.
 
 ## 🚀 Features
 
